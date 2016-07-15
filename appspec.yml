@@ -6,15 +6,9 @@ files:
 permissions:
    - object: /var/www/html
      pattern: "**"
-<<<<<<< HEAD
-     owner: apache
-     group: apache
-     mode: 775
-=======
      owner: root
      group: www
      mode: 664
->>>>>>> 5374dce2e329efbeeea6fa04463f7b7b7f2e7280
      type:
        - file
 hooks:
