@@ -1,5 +1,4 @@
 <?php
-function getLocalIp()
-{ return gethostbyname(trim(`hostname`)); }
+echo "Hello 121";
 ?>
 
