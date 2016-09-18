@@ -1,4 +1,4 @@
 <?php
-echo "Hello Ganeshpandi.r";
+echo "Hello Ganeshpandi.R";
 ?>
 
