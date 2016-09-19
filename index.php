@@ -1,5 +1,4 @@
 <?php
-echo "Hello Ganeshpandi.R";
-echo "IT Infra Admin";
+echo "Hello 121outsource";
 ?>
 
