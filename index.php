@@ -1,4 +1,4 @@
 <?php
-echo "Hello Ganesh121, Today is yours ;-) ";
+echo "Hello Sandra Kutti, Today is yours ;-) ";
 ?>
 
